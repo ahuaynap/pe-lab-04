@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666964327491",
+    "firebase_url": "https://pe-lab-03-default-rtdb.firebaseio.com",
+    "project_id": "pe-lab-03",
+    "storage_bucket": "pe-lab-03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666964327491:android:5f1fd52ed5a0103beaa8f6",
+        "android_client_info": {
+          "package_name": "com.lab04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666964327491-fed8c5ttnp9nhsq2mfbr6rn9vj0p7obq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lab04",
+            "certificate_hash": "4fd004379cc3511a18b49a7411047690222f5f24"
+          }
+        },
+        {
+          "client_id": "666964327491-quksfpr7ch0sq9ue0rsrr4g6sk1eu9jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZmutzcU4es82XDhbXRJt0OBJ86YAoBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666964327491-quksfpr7ch0sq9ue0rsrr4g6sk1eu9jv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
